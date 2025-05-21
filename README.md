@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Chone 👋
 
-<!--
-**ChoneMakhubela/ChoneMakhubela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Honours in Bioinformatics | 🧬 Background in Medical Biosciences  
+💻 Currently learning Python & working with Galaxy workflows  
+🔬 Interested in computational biology, genomics, and health data science
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Python (beginner)
+- Galaxy platform for NGS analysis
+- Lab techniques
+- Excel
+- Problem solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Projects
+
+-In progress
+
+Contact: Hmcmakhubela333@gmail.com
+
+
