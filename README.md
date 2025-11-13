@@ -14,6 +14,7 @@
 ## 🔗 Projects
 
 -Gene Regulatory Network Inferences using Transformer-based models and scGPT
+
 This project involved secondary data analysis based on studies by Cui et al. (2024) and Wang et al. (2024). All analyses were conducted on the Ilifu high-performance computing platform using python programming Language v3.13.2. The workflow adopted for our analysis is outlined in the steps below.
 
 Data Acquisition and Preprocessing
