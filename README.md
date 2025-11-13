@@ -5,7 +5,7 @@
 🔬 Interested in computational biology, genomics, and health data science
 
 ## Skills
-- Python (beginner)
+- Python
 - Galaxy platform for NGS analysis
 - Lab techniques
 - Excel
