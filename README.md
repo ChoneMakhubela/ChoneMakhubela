@@ -1,4 +1,4 @@
-# Hi, I'm Chone 👋
+# Chone Makhubela
 
 🎓 Honours in Bioinformatics | 🧬 Background in Medical Biosciences  
 💻 Proficient in Python & working with Galaxy workflows  
