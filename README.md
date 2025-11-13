@@ -4,7 +4,7 @@
 💻 Proficient in Python & working with Galaxy workflows  
 🔬 Interested in computational biology, genomics, and health data science
 
-## 🛠️ Skills
+## Skills
 - Python (beginner)
 - Galaxy platform for NGS analysis
 - Lab techniques
