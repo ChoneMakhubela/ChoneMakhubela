@@ -1,7 +1,7 @@
 # Hi, I'm Chone 👋
 
 🎓 Honours in Bioinformatics | 🧬 Background in Medical Biosciences  
-💻 Prificient in Python & working with Galaxy workflows  
+💻 Proficient in Python & working with Galaxy workflows  
 🔬 Interested in computational biology, genomics, and health data science
 
 ## 🛠️ Skills
