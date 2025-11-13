@@ -1,7 +1,7 @@
 # Hi, I'm Chone 👋
 
 🎓 Honours in Bioinformatics | 🧬 Background in Medical Biosciences  
-💻 Currently learning Python & working with Galaxy workflows  
+💻 Prificient in Python & working with Galaxy workflows  
 🔬 Interested in computational biology, genomics, and health data science
 
 ## 🛠️ Skills
@@ -13,7 +13,7 @@
 
 ## 🔗 Projects
 
--In progress
+-Gene Regulatory Network Inferences using Transformer-based models and scGPT
 
 Contact: Hmcmakhubela333@gmail.com
 
