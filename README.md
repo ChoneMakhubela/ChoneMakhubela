@@ -8,8 +8,8 @@
 - Python
 - Galaxy platform for NGS analysis
 - Lab techniques
-- Excel
-- Problem solving
+- Visualization
+- Data Analysis
 
 ## 🔗 Projects
 
