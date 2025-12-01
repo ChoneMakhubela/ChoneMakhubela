@@ -42,7 +42,7 @@ This project involved exploratory data analysis of leukemia gene expression data
 
 ## Load data
 
-The first few rows of the data was shown and the shape of the dataset in a interactive environment such as Jupyter Notebooks.
+The first few rows of the data was shown and the shape of the dataset in an interactive environment(Jupyter Notebooks).
 
 ## Exploratory Data Analysis
 
@@ -68,7 +68,7 @@ From Scikit-learn library, Principle Component Analysis(PCA) was used to reduce 
 
 ## Feature variability
 
-Variance for the top 20 genes was calculated to detrmine how variable the genes are, and the highly variable genes(HVGs) are most likely retained for further biological analysis.
+Variance for the top 20 genes was calculated to determine how variable the genes are, and the highly variable genes(HVGs) are most likely retained for further biological analysis.
 
 ## Key Findings 
 Certain genes show distinct distribution patterns between diagnosis groups, suggesting potential biomarkers.
