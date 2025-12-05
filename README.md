@@ -58,7 +58,7 @@ Matplotlib library was used to plot a histogram showing the distribution of the 
 
 ## Comparing expression across the diagnoses
 
-Seaborn library was used to plot a boxplot showing the expression across Acute Myeloid Leukemia (AML), Acute Lymhoblastic Leukemia(ALL), and Healthy Diagnoses.
+Seaborn library was used to plot a boxplot showing the expression across Acute Myeloid Leukemia (AML), Acute Lymphoblastic Leukemia(ALL), and Healthy Diagnoses.
 
 ## Correlation between genes
 
