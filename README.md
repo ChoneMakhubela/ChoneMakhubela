@@ -92,4 +92,4 @@ https://github.com/ChoneMakhubela
 [Hmcmakhubela333@gmail.com](mailto:Hmcmakhubela333@gmail.com)
 
 
-I am currently seeking **Graduate Data Analyst, Junior Data Analyst, or Intern/ Juniour Business Intelligence Analyst roles** where I can contribute my analytical and technical skills.
+I am currently seeking **Graduate Data Analyst, Junior Data Analyst, or Intern/ Junior Business Intelligence Analyst roles** where I can contribute my analytical and technical skills.
