@@ -59,7 +59,7 @@ Exploratory data analysis and dimensionality reduction on leukemia gene expressi
 **Tools:** Python, pandas, NumPy, Matplotlib, Seaborn, scikit-learn
 
 
-### Gene Regulatory Network Inference
+### Gene Regulatory Network Inference using Transformer-based models and scGPT
 
 Machine learning and network analysis project exploring relationships between genes.
 
