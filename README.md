@@ -4,7 +4,7 @@
 
 I am a data-focused graduate with a strong interest in **Bioinformatics, data analytics, business intelligence, and machine learning**. My work focuses on extracting meaningful insights from complex datasets and building analytical workflows using Python.
 
-I enjoy working at the intersection of **data, technology, and problem solving**, turning raw data into clear and actionable insights.
+I enjoy working at the intersection of **science, data, technology, and problem solving**, turning raw data into clear and actionable insights.
 
 
 ## About Me
