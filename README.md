@@ -1,8 +1,8 @@
 # Hi, I'm Chone Makhubela
 
-🎓 Bioinformatics Honours Graduate (Cum Laude) | Data Analytics & Machine Learning Enthusiast
+🎓 Bioinformatics Honours Graduate (Cum Laude) | Bioinformatics, Data Analytics & Machine Learning Enthusiast
 
-I am a data-focused graduate with a strong interest in **data analytics, business intelligence, and machine learning**. My work focuses on extracting meaningful insights from complex datasets and building analytical workflows using Python.
+I am a data-focused graduate with a strong interest in **Bioinformatics, data analytics, business intelligence, and machine learning**. My work focuses on extracting meaningful insights from complex datasets and building analytical workflows using Python.
 
 I enjoy working at the intersection of **data, technology, and problem solving**, turning raw data into clear and actionable insights.
 
@@ -11,7 +11,7 @@ I enjoy working at the intersection of **data, technology, and problem solving**
 
 * 🎓 BMedSc (Hons) in Bioinformatics (Cum Laude) – University of Cape Town
 * 🎓 BSc in Medical Biosciences – University of the Western Cape
-* 📊 Interested in **Data Analytics, Business Intelligence, and Data Science roles**
+* 📊 Interested in **Bioinformatics, Data Analytics, Business Intelligence, and Data Science roles**
 * Passionate about **data-driven decision making and analytical problem solving**
 * Enjoy collaborating in multidisciplinary teams and communicating insights clearly
 
@@ -92,4 +92,4 @@ https://github.com/ChoneMakhubela
 [Hmcmakhubela333@gmail.com](mailto:Hmcmakhubela333@gmail.com)
 
 
-I am currently seeking **Graduate Data Analyst, Junior Data Analyst, or Intern/ Junior Business Intelligence Analyst roles** where I can contribute my analytical and technical skills.
+I am currently seeking **Bioinformatics Intern, Graduate Data Analyst, Junior Data Analyst, or Intern/ Junior Business Intelligence Analyst roles** where I can contribute my analytical and technical skills.
